@@ -20,8 +20,10 @@ Project basically is website to order burgers with integration to Google Firebas
 - Create React App
 
 ## Features
-- authentication
-- Firebv
+- authentication (sign up/sign in)
+- Google Firebase integration
+- see order history
+- mobile/desktop responsive layout
 
 ## Setup
 - `npm install` inside root folder
